@@ -1,0 +1,26 @@
+{
+  "name": "woocommerce",
+  "version": "1.0.0",
+  "description": "Test API Woocommerce plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Woocomerce",
+    "Api",
+    "Wordpress",
+    "React",
+    "JS",
+    "Node",
+    "JS"
+  ],
+  "author": "Elyes Maamouri",
+  "license": "ISC",
+  "dependencies": {
+    "@woocommerce/woocommerce-rest-api": "^1.0.1",
+    "express": "^4.18.2",
+    "http": "0.0.1-security",
+    "nodemon": "^2.0.20"
+  }
+}
